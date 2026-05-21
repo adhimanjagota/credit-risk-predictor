@@ -93,4 +93,5 @@ credit-risk-predictor/
 ## Author
  
 Adhiman Jagota — Data Science & Applied Math @ University of Washington Seattle
+
 adhimanj@uw.edu
